@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "avatar",
+  "alias": "avatar.windsor.io",
+  "rewrites": [{ "source": "/(.*)", "destination": "/api/" }],
+  "files": ["api", "index.html", "robots.txt"]
+}

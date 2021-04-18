@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+.DS_Store
+*.Pluric*Settings*
+nohup.out
+__pycache__
+build
